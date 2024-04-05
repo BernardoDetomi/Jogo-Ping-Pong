@@ -1,10 +1,12 @@
-# Jogo Ping-Pong
+## Jogo Ping-Pong
 
-Bem-vindo ao Jogo Ping-Pong! Este é um jogo simples desenvolvido em HTML5, CSS3 e JavaScript, para um curso que fiz, onde você pode jogar ping-pong contra o computador. Divirta-se! 
+Bem-vindo ao Jogo Ping-Pong! Este é um jogo simples desenvolvido em HTML5, CSS3 e JavaScript, para um curso que fiz, onde você pode jogar ping-pong contra o computador. Divirta-se!  
+
+---  
 
 ## Conteúdo  
 
-1. [Descrição](descrição)  
+1. [Descrição](#descrição)  
 2. [Instruções de Uso](#instruções-de-uso)  
 3. [Como Contribuir](#como-contribuir)  
 4. [Créditos](#créditos)     
